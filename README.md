@@ -1,0 +1,3 @@
+- TODO compare merge sort in-place vs out-of-place performance
+- TODO insertion sort
+- TODO quick sort
