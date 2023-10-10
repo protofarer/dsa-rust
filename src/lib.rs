@@ -3,4 +3,5 @@
 #[allow(clippy::unwrap_used)]
 #[allow(clippy::expect_used)]
 pub mod sort_bubble;
+pub mod sort_insertion;
 pub mod sort_merge;
