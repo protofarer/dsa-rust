@@ -5,3 +5,4 @@
 pub mod sort_bubble;
 pub mod sort_insertion;
 pub mod sort_merge;
+pub mod sort_quick;
